@@ -2,6 +2,7 @@
 
 int main()
 {
-    std::cout << "Hello world!\n\n";
+    // hello text
+    std::cout << "Hello\n\n";
     
 }
